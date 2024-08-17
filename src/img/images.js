@@ -38,46 +38,44 @@ import thumbProduct04 from './thumb-product04.jpg';
 
 // Exporting all images as an object
 const images = {
-    banners: {
-        banner01,
-        banner02,
-        banner03,
-        banner04,
-        banner05,
-        banner06,
-        banner07,
-        banner08,
-        banner09,
-        banner10,
-        banner11,
-        banner12,
-        banner13,
-        banner14,
-        banner15,
-    },
+
+    banner01,
+    banner02,
+    banner03,
+    banner04,
+    banner05,
+    banner06,
+    banner07,
+    banner08,
+    banner09,
+    banner10,
+    banner11,
+    banner12,
+    banner13,
+    banner14,
+    banner15,
+
     logo,
-    mainProducts: {
-        mainProduct01,
-        mainProduct02,
-        mainProduct03,
-        mainProduct04,
-    },
-    products: {
-        product01,
-        product02,
-        product03,
-        product04,
-        product05,
-        product06,
-        product07,
-        product08,
-    },
-    thumbs: {
-        thumbProduct01,
-        thumbProduct02,
-        thumbProduct03,
-        thumbProduct04,
-    },
+
+    mainProduct01,
+    mainProduct02,
+    mainProduct03,
+    mainProduct04,
+
+    product01,
+    product02,
+    product03,
+    product04,
+    product05,
+    product06,
+    product07,
+    product08,
+
+    thumbProduct01,
+    thumbProduct02,
+    thumbProduct03,
+    thumbProduct04,
+
 };
 
 export default images;
